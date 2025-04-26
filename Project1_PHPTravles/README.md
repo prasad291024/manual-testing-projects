@@ -89,10 +89,4 @@ Contributions, enhancements, or feedback are welcome! Please:
 
 ---
 
-## Contact & Support
-For questions or assistance, reach out via our support desk or connect with us on social media:
-- **Support Desk**: [Support Portal](https://phptravels.net/support)  
-- **Twitter**: [@PHPTRAVELS](https://twitter.com/phptravels)  
-- **LinkedIn**: [PHPTRAVELS](https://www.linkedin.com/company/phptravels)
-
 Thank you for reviewing the PHPtravels Manual Testing Suite! Feel free to open issues or pull requests for any clarifications or enhancements.
